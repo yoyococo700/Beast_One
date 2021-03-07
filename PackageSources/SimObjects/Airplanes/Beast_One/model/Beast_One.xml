@@ -173,9 +173,7 @@
             <Cursor>Hand</Cursor>
             <HelpID>HELPID_GAUGE_BATTERY_SWITCH</HelpID>
             <TooltipID>TOOLTIPTEXT_BATTERY_SWITCH</TooltipID>
-        <CallbackCode>
-			1 (>K:TOGGLE_MASTER_BATTERY)
-        </CallbackCode>
+            <EventID>TOGGLE_MASTER_BATTERY</EventID>
         </MouseRect>
     </PartInfo>
 
